@@ -121,5 +121,6 @@ The chatbot **CyberPhil** acts as:
 - NLTK
 - Torch (foundational ML support)
 - HTML / CSS / JavaScript
+- Qwen 2.5 7B (Ollama)
 
 ---
