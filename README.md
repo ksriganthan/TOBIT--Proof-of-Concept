@@ -47,6 +47,7 @@ The paper presents:
 
 The PoC implemented in this repository directly supports and demonstrates the concepts discussed in the paper.
 
+IEEE Xplore: https://ieeexplore.ieee.org/document/11212360
 ---
 
 ## Project Evolution (Versions)
